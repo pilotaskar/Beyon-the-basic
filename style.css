@@ -1,0 +1,71 @@
+header {
+background: black;
+color: white;
+height: 230px;
+padding-left: 50px;
+padding-top: 50px;
+}
+
+img {
+border-radius: 20px;
+border: solid 7px white;
+}
+
+.menu li {
+border-radius: 10px;
+border: solid 1px black;
+width: 150px;
+margin: 10px;
+padding: 10px;
+list-style-type: none;
+background-color: black;
+color: white;
+font-weight: bolder;
+}
+
+.menu li:hover {
+color: black;
+background-color: white;
+border: solid 2px black;
+}
+
+ol {
+background: black;
+color: white;
+}
+
+ol li {
+border-bottom: white solid 2px;
+}
+
+th {
+margin: 30px;
+padding: 20px;
+background-color: black;
+color: white;
+
+}
+
+td {
+margin: 30px;
+padding: 20px;
+background-color: black;
+color: white;
+}
+
+table a {
+background-color:yellow;
+text-decoration: none;
+}
+
+.non-border td {
+background-color: white;
+color: black;
+}
+
+footer {
+border: solid 10px black;
+margin: 20px;
+text-align: center;
+}
+
